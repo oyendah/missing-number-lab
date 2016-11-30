@@ -12,7 +12,8 @@ module.exports = function(firstArray, sndArray){
 			missing_num=sndArray[i];
 		}
 	}
-	for(var j in firstArray){
+	
+	for (var j= 0; j < firstArray.length; j++) {
 		if(sndArray.indexOf(firstArray[j]) === -1){
 			missing_num = firstArray[j];
 		}
