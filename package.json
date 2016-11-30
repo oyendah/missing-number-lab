@@ -1,0 +1,25 @@
+{
+  "name": "missing-number-lab",
+  "version": "1.0.0",
+  "description": "Missing Number Lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyendah/missing-number-lab.git"
+  },
+  "author": "Subair O.A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyendah/missing-number-lab/issues"
+  },
+  "homepage": "https://github.com/oyendah/missing-number-lab#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
